@@ -1,0 +1,6 @@
+SBD, HoTen, Toan, Ly, Hoa
+TS001, Dang Quoc Hung, 9.0, 9.5, 9.0
+TS002, Tran Minh Quan, 7.5, 7.0, 6.5
+TS003, Le Thi Huong, 9.0, 9.5, 9.0
+TS004, Huynh Thu, 8.0, 8.5, 9.0
+TS005, Nguyen Tan Dung, 5.0, 4.0, 6.0
