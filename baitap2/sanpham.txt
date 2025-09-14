@@ -1,0 +1,8 @@
+SP01, But bi, 100, 7000
+SP02, Thuoc ke, 50, 15000
+SP03, Vo hoc sinh, 200, 15000
+SP04, Gom tay, 8, 10000
+SP05, But chi, 12, 15000
+SP06, Thuoc deo, 30, 15000
+SP07, Hop but, 50, 20000
+SP08, Keo dan giay, 15, 15000
