@@ -1,0 +1,6 @@
+SV001,Nguyen Hung,8.5
+SV002,Tran Thi ,7.9
+SV003,Dang Quoc Hung,9.2
+SV004,Pham Minh Dai,6
+SV005,Pham Binh Chuong,5
+SV006, Nguyen Bin,7
